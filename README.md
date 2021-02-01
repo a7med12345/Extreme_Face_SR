@@ -2,7 +2,7 @@
 
 ## Overview of the method
 
-![alt text](images/step1&2.png 'framework')
+![alt text](images/Step1&2.png 'framework')
 
 ![alt text](images/gif.gif 'equation')
 
